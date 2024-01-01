@@ -15,7 +15,7 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/your-username/CircleAndSquareGame/issues).
+If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/marcelomosl-rstar/CollisionGameCpp).
 
 ## Changelog
 
@@ -27,11 +27,11 @@ Check out the [Roadmap](ROADMAP.md) for upcoming features and improvements.
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, feel free to reach out to [marcelomosl@icloud.com](mailto:marcelomosl@icloud.com).
 
 ## Credits
 
-- Game template created by [Your Name]
+- Game template created by Marcelo Mosl.
 
 ## License
 
