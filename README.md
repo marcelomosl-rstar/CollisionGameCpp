@@ -1,33 +1,38 @@
-# Circle and Square Game
+# Circle and Square Game (Continued)
 
-## Overview
+## Screenshots
 
-This simple game is built using the [Raylib](https://www.raylib.com/) library and involves a blue circle and a purple square moving on the screen. The objective is to avoid a collision between the circle and the square. The player can control the horizontal movement of the circle using the arrow keys.
+Include screenshots or GIFs of the gameplay here.
 
-## Game Rules
+## Contributing
 
-1. The blue circle starts at the top of the window and moves horizontally based on the player's input.
-2. The purple square moves vertically from the top to the bottom of the window and bounces back when reaching the edges.
-3. The game ends if the square collides with the circle.
+If you'd like to contribute to the project, please follow these steps:
 
-## Controls
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your fork and submit a pull request.
 
-- **Left Arrow Key**: Move the circle to the left.
-- **Right Arrow Key**: Move the circle to the right.
+## Issues
 
-## How to Play
+If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/your-username/CircleAndSquareGame/issues).
 
-1. Run the game executable.
-2. Use the arrow keys to move the blue circle left or right.
-3. Try to avoid a collision between the blue circle and the purple square.
-4. If a collision occurs, the game will display a "Game Over" message in red.
+## Changelog
 
-## Building the Game
+Keep track of changes in the [Changelog](CHANGELOG.md) file.
 
-To build and run the game, ensure you have the Raylib library installed. You can find instructions on how to install Raylib [here](https://www.raylib.com/).
+## Roadmap
 
-After installing Raylib, compile the game source code using a C compiler, such as GCC, and link it with the Raylib library. For example:
+Check out the [Roadmap](ROADMAP.md) for upcoming features and improvements.
 
-```bash
-gcc main.c -o CircleAndSquareGame -lraylib
+## Contact
 
+For any inquiries or feedback, feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
+
+## Credits
+
+- Game template created by [Your Name]
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
