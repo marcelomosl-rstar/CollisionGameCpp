@@ -1,8 +1,4 @@
-# Circle and Square Game (Continued)
-
-## Screenshots
-
-Include screenshots or GIFs of the gameplay here.
+# CollisionGame
 
 ## Contributing
 
